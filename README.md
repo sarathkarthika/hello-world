@@ -1,2 +1,2 @@
 # hello-world
-HELLO WORLD!
+Hello WORLD & Git-Hub! this is COOL!
